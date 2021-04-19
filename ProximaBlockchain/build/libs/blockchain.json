@@ -1,0 +1,196 @@
+{
+  "blocks": [
+    {
+      "type": "com.omega.models.Block.DocumentBlock",
+      "header": {
+        "version": "",
+        "previousBlockHash": "",
+        "timestamp": 0
+      },
+      "documentId": "01",
+      "documentHash": "098f6bcd4621d373cade4e832627b4f6",
+      "clientHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDmIhYrxDMWvd5iD/70SAOCF0XS66sL5HEZg4a+K8Rcx6OQ5TRUDtpOJrJXDofTVSqisQ8ZUfH0ox/6EniRBihhb5xwmnF5vxVlfL7bcsTDKrQ0O+pO/IJxdHhRsULCwyBHudS1BLVpchDsDnAdiffz6pG08IyoyMlpP9+kld3ddQIDAQAB",
+      "bankHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCKWqfWGSO6TKcbPZjCyuOcR8oDk2YALaygSS4zgrYB8uu96E+NgouMlU496LdFPaSDxDLYSWip/kA5cG9GXNioOOmieFmGk9EIXbH7XvlgyHi+tDAHqSkuSaIcG0AwLwUt4lr+zVjDW2CWW1T5QWHFgWvESx3IDzt8k4h8f2FR1wIDAQAB",
+      "bankSignature": "ZSwU8H06IW/8YOu2W6Z81IcOhM8aQV6TuTxwAQth3mTbh3W45yaExCp1oD9bM9wMfN+117fyW91vleO7kvMmRjGhv0q/zcX7dJ+je0Skh22K7J65fF9P++nleAH6NDRDTCGRN3Zm9XimlxXbkGw2b1O8+5iFp4JZqyfZcMv4x/Q=",
+      "clientSignature": ""
+    },
+    {
+      "type": "com.omega.models.Block.DocumentBlock",
+      "header": {
+        "version": "",
+        "previousBlockHash": "",
+        "timestamp": 0
+      },
+      "documentId": "01",
+      "documentHash": "098f6bcd4621d373cade4e832627b4f6",
+      "clientHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDmIhYrxDMWvd5iD/70SAOCF0XS66sL5HEZg4a+K8Rcx6OQ5TRUDtpOJrJXDofTVSqisQ8ZUfH0ox/6EniRBihhb5xwmnF5vxVlfL7bcsTDKrQ0O+pO/IJxdHhRsULCwyBHudS1BLVpchDsDnAdiffz6pG08IyoyMlpP9+kld3ddQIDAQAB",
+      "bankHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCKWqfWGSO6TKcbPZjCyuOcR8oDk2YALaygSS4zgrYB8uu96E+NgouMlU496LdFPaSDxDLYSWip/kA5cG9GXNioOOmieFmGk9EIXbH7XvlgyHi+tDAHqSkuSaIcG0AwLwUt4lr+zVjDW2CWW1T5QWHFgWvESx3IDzt8k4h8f2FR1wIDAQAB",
+      "bankSignature": "ZSwU8H06IW/8YOu2W6Z81IcOhM8aQV6TuTxwAQth3mTbh3W45yaExCp1oD9bM9wMfN+117fyW91vleO7kvMmRjGhv0q/zcX7dJ+je0Skh22K7J65fF9P++nleAH6NDRDTCGRN3Zm9XimlxXbkGw2b1O8+5iFp4JZqyfZcMv4x/Q=",
+      "clientSignature": ""
+    },
+    {
+      "type": "com.omega.models.Block.DocumentBlock",
+      "header": {
+        "version": "",
+        "previousBlockHash": "",
+        "timestamp": 0
+      },
+      "documentId": "01",
+      "documentHash": "098f6bcd4621d373cade4e832627b4f6",
+      "clientHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDmIhYrxDMWvd5iD/70SAOCF0XS66sL5HEZg4a+K8Rcx6OQ5TRUDtpOJrJXDofTVSqisQ8ZUfH0ox/6EniRBihhb5xwmnF5vxVlfL7bcsTDKrQ0O+pO/IJxdHhRsULCwyBHudS1BLVpchDsDnAdiffz6pG08IyoyMlpP9+kld3ddQIDAQAB",
+      "bankHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCKWqfWGSO6TKcbPZjCyuOcR8oDk2YALaygSS4zgrYB8uu96E+NgouMlU496LdFPaSDxDLYSWip/kA5cG9GXNioOOmieFmGk9EIXbH7XvlgyHi+tDAHqSkuSaIcG0AwLwUt4lr+zVjDW2CWW1T5QWHFgWvESx3IDzt8k4h8f2FR1wIDAQAB",
+      "bankSignature": "ZSwU8H06IW/8YOu2W6Z81IcOhM8aQV6TuTxwAQth3mTbh3W45yaExCp1oD9bM9wMfN+117fyW91vleO7kvMmRjGhv0q/zcX7dJ+je0Skh22K7J65fF9P++nleAH6NDRDTCGRN3Zm9XimlxXbkGw2b1O8+5iFp4JZqyfZcMv4x/Q=",
+      "clientSignature": ""
+    },
+    {
+      "type": "com.omega.models.Block.TransactionBlock",
+      "header": {
+        "version": "",
+        "previousBlockHash": "",
+        "timestamp": 0
+      },
+      "transactions": [
+        {
+          "type": "com.omega.models.Transaction.LoanTransaction",
+          "transactionType": "EMI_TRANSACTION",
+          "bankHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCKWqfWGSO6TKcbPZjCyuOcR8oDk2YALaygSS4zgrYB8uu96E+NgouMlU496LdFPaSDxDLYSWip/kA5cG9GXNioOOmieFmGk9EIXbH7XvlgyHi+tDAHqSkuSaIcG0AwLwUt4lr+zVjDW2CWW1T5QWHFgWvESx3IDzt8k4h8f2FR1wIDAQAB",
+          "clientHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDmIhYrxDMWvd5iD/70SAOCF0XS66sL5HEZg4a+K8Rcx6OQ5TRUDtpOJrJXDofTVSqisQ8ZUfH0ox/6EniRBihhb5xwmnF5vxVlfL7bcsTDKrQ0O+pO/IJxdHhRsULCwyBHudS1BLVpchDsDnAdiffz6pG08IyoyMlpP9+kld3ddQIDAQAB",
+          "amount": 123,
+          "bankSignature": "CwMGOamFn/ZVYu14yhmdo95PFMOKFPLxIoflroWwV2biRpkX4LXG0FQWfxM5oK4HD77f7ID4CCdgWqEqXAroodmVX9HZhhGhUwCfz72YU94VengwoOMrrsSE4DR7TGnY3Uq3emdmbw7aInWv/tI1cGEZJI03GpwNXSWUMQyOWsU="
+        },
+        {
+          "type": "com.omega.models.Transaction.LoanTransaction",
+          "transactionType": "EMI_BOUNCE",
+          "bankHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCKWqfWGSO6TKcbPZjCyuOcR8oDk2YALaygSS4zgrYB8uu96E+NgouMlU496LdFPaSDxDLYSWip/kA5cG9GXNioOOmieFmGk9EIXbH7XvlgyHi+tDAHqSkuSaIcG0AwLwUt4lr+zVjDW2CWW1T5QWHFgWvESx3IDzt8k4h8f2FR1wIDAQAB",
+          "clientHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDmIhYrxDMWvd5iD/70SAOCF0XS66sL5HEZg4a+K8Rcx6OQ5TRUDtpOJrJXDofTVSqisQ8ZUfH0ox/6EniRBihhb5xwmnF5vxVlfL7bcsTDKrQ0O+pO/IJxdHhRsULCwyBHudS1BLVpchDsDnAdiffz6pG08IyoyMlpP9+kld3ddQIDAQAB",
+          "amount": 123,
+          "bankSignature": "CwMGOamFn/ZVYu14yhmdo95PFMOKFPLxIoflroWwV2biRpkX4LXG0FQWfxM5oK4HD77f7ID4CCdgWqEqXAroodmVX9HZhhGhUwCfz72YU94VengwoOMrrsSE4DR7TGnY3Uq3emdmbw7aInWv/tI1cGEZJI03GpwNXSWUMQyOWsU="
+        },
+        {
+          "type": "com.omega.models.Transaction.LoanTransaction",
+          "transactionType": "LOAN_DEFAULT",
+          "bankHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCKWqfWGSO6TKcbPZjCyuOcR8oDk2YALaygSS4zgrYB8uu96E+NgouMlU496LdFPaSDxDLYSWip/kA5cG9GXNioOOmieFmGk9EIXbH7XvlgyHi+tDAHqSkuSaIcG0AwLwUt4lr+zVjDW2CWW1T5QWHFgWvESx3IDzt8k4h8f2FR1wIDAQAB",
+          "clientHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDmIhYrxDMWvd5iD/70SAOCF0XS66sL5HEZg4a+K8Rcx6OQ5TRUDtpOJrJXDofTVSqisQ8ZUfH0ox/6EniRBihhb5xwmnF5vxVlfL7bcsTDKrQ0O+pO/IJxdHhRsULCwyBHudS1BLVpchDsDnAdiffz6pG08IyoyMlpP9+kld3ddQIDAQAB",
+          "amount": 123,
+          "bankSignature": "CwMGOamFn/ZVYu14yhmdo95PFMOKFPLxIoflroWwV2biRpkX4LXG0FQWfxM5oK4HD77f7ID4CCdgWqEqXAroodmVX9HZhhGhUwCfz72YU94VengwoOMrrsSE4DR7TGnY3Uq3emdmbw7aInWv/tI1cGEZJI03GpwNXSWUMQyOWsU="
+        }
+      ]
+    },
+    {
+      "type": "com.omega.models.Block.TransactionBlock",
+      "header": {
+        "version": "",
+        "previousBlockHash": "",
+        "timestamp": 0
+      },
+      "transactions": [
+        {
+          "type": "com.omega.models.Transaction.LoanTransaction",
+          "transactionType": "EMI_TRANSACTION",
+          "bankHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCKWqfWGSO6TKcbPZjCyuOcR8oDk2YALaygSS4zgrYB8uu96E+NgouMlU496LdFPaSDxDLYSWip/kA5cG9GXNioOOmieFmGk9EIXbH7XvlgyHi+tDAHqSkuSaIcG0AwLwUt4lr+zVjDW2CWW1T5QWHFgWvESx3IDzt8k4h8f2FR1wIDAQAB",
+          "clientHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDmIhYrxDMWvd5iD/70SAOCF0XS66sL5HEZg4a+K8Rcx6OQ5TRUDtpOJrJXDofTVSqisQ8ZUfH0ox/6EniRBihhb5xwmnF5vxVlfL7bcsTDKrQ0O+pO/IJxdHhRsULCwyBHudS1BLVpchDsDnAdiffz6pG08IyoyMlpP9+kld3ddQIDAQAB",
+          "amount": 123,
+          "bankSignature": "CwMGOamFn/ZVYu14yhmdo95PFMOKFPLxIoflroWwV2biRpkX4LXG0FQWfxM5oK4HD77f7ID4CCdgWqEqXAroodmVX9HZhhGhUwCfz72YU94VengwoOMrrsSE4DR7TGnY3Uq3emdmbw7aInWv/tI1cGEZJI03GpwNXSWUMQyOWsU="
+        },
+        {
+          "type": "com.omega.models.Transaction.LoanTransaction",
+          "transactionType": "EMI_BOUNCE",
+          "bankHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCKWqfWGSO6TKcbPZjCyuOcR8oDk2YALaygSS4zgrYB8uu96E+NgouMlU496LdFPaSDxDLYSWip/kA5cG9GXNioOOmieFmGk9EIXbH7XvlgyHi+tDAHqSkuSaIcG0AwLwUt4lr+zVjDW2CWW1T5QWHFgWvESx3IDzt8k4h8f2FR1wIDAQAB",
+          "clientHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDmIhYrxDMWvd5iD/70SAOCF0XS66sL5HEZg4a+K8Rcx6OQ5TRUDtpOJrJXDofTVSqisQ8ZUfH0ox/6EniRBihhb5xwmnF5vxVlfL7bcsTDKrQ0O+pO/IJxdHhRsULCwyBHudS1BLVpchDsDnAdiffz6pG08IyoyMlpP9+kld3ddQIDAQAB",
+          "amount": 123,
+          "bankSignature": "CwMGOamFn/ZVYu14yhmdo95PFMOKFPLxIoflroWwV2biRpkX4LXG0FQWfxM5oK4HD77f7ID4CCdgWqEqXAroodmVX9HZhhGhUwCfz72YU94VengwoOMrrsSE4DR7TGnY3Uq3emdmbw7aInWv/tI1cGEZJI03GpwNXSWUMQyOWsU="
+        },
+        {
+          "type": "com.omega.models.Transaction.LoanTransaction",
+          "transactionType": "LOAN_DEFAULT",
+          "bankHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCKWqfWGSO6TKcbPZjCyuOcR8oDk2YALaygSS4zgrYB8uu96E+NgouMlU496LdFPaSDxDLYSWip/kA5cG9GXNioOOmieFmGk9EIXbH7XvlgyHi+tDAHqSkuSaIcG0AwLwUt4lr+zVjDW2CWW1T5QWHFgWvESx3IDzt8k4h8f2FR1wIDAQAB",
+          "clientHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDmIhYrxDMWvd5iD/70SAOCF0XS66sL5HEZg4a+K8Rcx6OQ5TRUDtpOJrJXDofTVSqisQ8ZUfH0ox/6EniRBihhb5xwmnF5vxVlfL7bcsTDKrQ0O+pO/IJxdHhRsULCwyBHudS1BLVpchDsDnAdiffz6pG08IyoyMlpP9+kld3ddQIDAQAB",
+          "amount": 123,
+          "bankSignature": "CwMGOamFn/ZVYu14yhmdo95PFMOKFPLxIoflroWwV2biRpkX4LXG0FQWfxM5oK4HD77f7ID4CCdgWqEqXAroodmVX9HZhhGhUwCfz72YU94VengwoOMrrsSE4DR7TGnY3Uq3emdmbw7aInWv/tI1cGEZJI03GpwNXSWUMQyOWsU="
+        }
+      ]
+    },
+    {
+      "type": "com.omega.models.Block.TransactionBlock",
+      "header": {
+        "version": "",
+        "previousBlockHash": "",
+        "timestamp": 0
+      },
+      "transactions": [
+        {
+          "type": "com.omega.models.Transaction.LoanTransaction",
+          "transactionType": "LOAN_GRANT",
+          "bankHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCKWqfWGSO6TKcbPZjCyuOcR8oDk2YALaygSS4zgrYB8uu96E+NgouMlU496LdFPaSDxDLYSWip/kA5cG9GXNioOOmieFmGk9EIXbH7XvlgyHi+tDAHqSkuSaIcG0AwLwUt4lr+zVjDW2CWW1T5QWHFgWvESx3IDzt8k4h8f2FR1wIDAQAB",
+          "clientHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDI8iL+fseIZuom0+tlw2ZJ3X4R4MLGISDI1NTRakPx1qrbdDbRzOQv3DUGjoqJtw9a2hHswTsPdkW6AdTtgqfsHyEbMFntVvpEvgYdDaxOq+nXF3gXJbW6aleSRfOwyeBROpNfmPb+WUPCIyR0RUKCtoEYAhEvQkE84l1xeHKlCQIDAQAB",
+          "amount": 10000,
+          "bankSignature": "E7WCxvuTTyQwHSTO0SxfBUm2j33JsXshlUi7TPzr2Es3m5jBxit7fEFCIvNfYDxqWc3kaNRZjbSwrH8DpVLxEllOFjGmTGiLY7lsNRe/DgtKkNPBAjcGo5gPiym5Kn6P+D8iDrMO5sa9BJTPJFLSONHy6ZmAhFG2cZCC+5dx+j0="
+        }
+      ]
+    },
+    {
+      "type": "com.omega.models.Block.TransactionBlock",
+      "header": {
+        "version": "",
+        "previousBlockHash": "",
+        "timestamp": 0
+      },
+      "transactions": [
+        {
+          "type": "com.omega.models.Transaction.LoanTransaction",
+          "transactionType": "LOAN_GRANT",
+          "bankHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCKWqfWGSO6TKcbPZjCyuOcR8oDk2YALaygSS4zgrYB8uu96E+NgouMlU496LdFPaSDxDLYSWip/kA5cG9GXNioOOmieFmGk9EIXbH7XvlgyHi+tDAHqSkuSaIcG0AwLwUt4lr+zVjDW2CWW1T5QWHFgWvESx3IDzt8k4h8f2FR1wIDAQAB",
+          "clientHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCaZ3Fs1vBdGXdTcguc1Xv6b8hQ9dYY0uDkTH8vYqOmiVhjOczz2+4kVqdKYNTevfQdmQIOJ6L8ZavUzYKnwu04rB6FPayY+erejQ0cXlEwgUO8fXOxbnmnqMTTG792yYkFRk+VPXijpPGVtFH561RCko5m7ZjKoPHzrfkLPorBAQIDAQAB",
+          "amount": 100000,
+          "bankSignature": "Elhp7Wqw7bO15X7pF3CroSh8zOveNNiBNfiRT+A2V5uyneZHB+QITaQ54rEOnv10eC6hMYfallPY8F/7Hj6wNJCvXbRE+4+omiNV1ucgYgVVl4+TcE6D+d+J0FVIkN6GHYMlVY7bh+WvNnKajkyqZEgGncDKM7GTlhqXZa2p1eM="
+        },
+        {
+          "type": "com.omega.models.Transaction.LoanTransaction",
+          "transactionType": "EMI_TRANSACTION",
+          "bankHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCKWqfWGSO6TKcbPZjCyuOcR8oDk2YALaygSS4zgrYB8uu96E+NgouMlU496LdFPaSDxDLYSWip/kA5cG9GXNioOOmieFmGk9EIXbH7XvlgyHi+tDAHqSkuSaIcG0AwLwUt4lr+zVjDW2CWW1T5QWHFgWvESx3IDzt8k4h8f2FR1wIDAQAB",
+          "clientHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCaZ3Fs1vBdGXdTcguc1Xv6b8hQ9dYY0uDkTH8vYqOmiVhjOczz2+4kVqdKYNTevfQdmQIOJ6L8ZavUzYKnwu04rB6FPayY+erejQ0cXlEwgUO8fXOxbnmnqMTTG792yYkFRk+VPXijpPGVtFH561RCko5m7ZjKoPHzrfkLPorBAQIDAQAB",
+          "amount": 1000,
+          "bankSignature": "U9w7aLXi7kGJfMfOlEfzg4izZnkhPYHqQG8XkI/d/Fj6ehavA+vaMjUf8UggrMliZINrZgOuasYYyfiVQK8LV786QrEkWwIq6nE3GMAu+iGoV+AoqGtojRl5floI8nNUKUFwo32xVqIxpham6/ZfjOpsndt2YVUEfx8LhTqeh/4="
+        },
+        {
+          "type": "com.omega.models.Transaction.LoanTransaction",
+          "transactionType": "EMI_TRANSACTION",
+          "bankHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCKWqfWGSO6TKcbPZjCyuOcR8oDk2YALaygSS4zgrYB8uu96E+NgouMlU496LdFPaSDxDLYSWip/kA5cG9GXNioOOmieFmGk9EIXbH7XvlgyHi+tDAHqSkuSaIcG0AwLwUt4lr+zVjDW2CWW1T5QWHFgWvESx3IDzt8k4h8f2FR1wIDAQAB",
+          "clientHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCaZ3Fs1vBdGXdTcguc1Xv6b8hQ9dYY0uDkTH8vYqOmiVhjOczz2+4kVqdKYNTevfQdmQIOJ6L8ZavUzYKnwu04rB6FPayY+erejQ0cXlEwgUO8fXOxbnmnqMTTG792yYkFRk+VPXijpPGVtFH561RCko5m7ZjKoPHzrfkLPorBAQIDAQAB",
+          "amount": 1000,
+          "bankSignature": "U9w7aLXi7kGJfMfOlEfzg4izZnkhPYHqQG8XkI/d/Fj6ehavA+vaMjUf8UggrMliZINrZgOuasYYyfiVQK8LV786QrEkWwIq6nE3GMAu+iGoV+AoqGtojRl5floI8nNUKUFwo32xVqIxpham6/ZfjOpsndt2YVUEfx8LhTqeh/4="
+        },
+        {
+          "type": "com.omega.models.Transaction.LoanTransaction",
+          "transactionType": "EMI_BOUNCE",
+          "bankHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCKWqfWGSO6TKcbPZjCyuOcR8oDk2YALaygSS4zgrYB8uu96E+NgouMlU496LdFPaSDxDLYSWip/kA5cG9GXNioOOmieFmGk9EIXbH7XvlgyHi+tDAHqSkuSaIcG0AwLwUt4lr+zVjDW2CWW1T5QWHFgWvESx3IDzt8k4h8f2FR1wIDAQAB",
+          "clientHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCaZ3Fs1vBdGXdTcguc1Xv6b8hQ9dYY0uDkTH8vYqOmiVhjOczz2+4kVqdKYNTevfQdmQIOJ6L8ZavUzYKnwu04rB6FPayY+erejQ0cXlEwgUO8fXOxbnmnqMTTG792yYkFRk+VPXijpPGVtFH561RCko5m7ZjKoPHzrfkLPorBAQIDAQAB",
+          "amount": 1000,
+          "bankSignature": "U9w7aLXi7kGJfMfOlEfzg4izZnkhPYHqQG8XkI/d/Fj6ehavA+vaMjUf8UggrMliZINrZgOuasYYyfiVQK8LV786QrEkWwIq6nE3GMAu+iGoV+AoqGtojRl5floI8nNUKUFwo32xVqIxpham6/ZfjOpsndt2YVUEfx8LhTqeh/4="
+        },
+        {
+          "type": "com.omega.models.Transaction.LoanTransaction",
+          "transactionType": "LOAN_DEFAULT",
+          "bankHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCKWqfWGSO6TKcbPZjCyuOcR8oDk2YALaygSS4zgrYB8uu96E+NgouMlU496LdFPaSDxDLYSWip/kA5cG9GXNioOOmieFmGk9EIXbH7XvlgyHi+tDAHqSkuSaIcG0AwLwUt4lr+zVjDW2CWW1T5QWHFgWvESx3IDzt8k4h8f2FR1wIDAQAB",
+          "clientHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCaZ3Fs1vBdGXdTcguc1Xv6b8hQ9dYY0uDkTH8vYqOmiVhjOczz2+4kVqdKYNTevfQdmQIOJ6L8ZavUzYKnwu04rB6FPayY+erejQ0cXlEwgUO8fXOxbnmnqMTTG792yYkFRk+VPXijpPGVtFH561RCko5m7ZjKoPHzrfkLPorBAQIDAQAB",
+          "amount": 10000,
+          "bankSignature": "QnNOFxGFNxLXvCfbVtIXd8nbE3hMYaCyCnYvN6k+LsMctOQ8WgulOoX3tuMIQVLXOw2H44g+PbkJt8YfxNniGfKZ0x+PDMDz2yKDz/hFdoJrIjbHNBia9n1UyWnikuiP1A/hrqozibpKqrptDqmINnWgXhzyIcIzNbxId9+51oE="
+        }
+      ]
+    },
+    {
+      "type": "com.omega.models.Block.DocumentBlock",
+      "header": {
+        "version": "",
+        "previousBlockHash": "",
+        "timestamp": 0
+      },
+      "documentId": "10000",
+      "documentHash": "e9d1be80e9b5bab07c6f9f92e096cc77",
+      "clientHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDmIhYrxDMWvd5iD/70SAOCF0XS66sL5HEZg4a+K8Rcx6OQ5TRUDtpOJrJXDofTVSqisQ8ZUfH0ox/6EniRBihhb5xwmnF5vxVlfL7bcsTDKrQ0O+pO/IJxdHhRsULCwyBHudS1BLVpchDsDnAdiffz6pG08IyoyMlpP9+kld3ddQIDAQAB",
+      "bankHash": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCKWqfWGSO6TKcbPZjCyuOcR8oDk2YALaygSS4zgrYB8uu96E+NgouMlU496LdFPaSDxDLYSWip/kA5cG9GXNioOOmieFmGk9EIXbH7XvlgyHi+tDAHqSkuSaIcG0AwLwUt4lr+zVjDW2CWW1T5QWHFgWvESx3IDzt8k4h8f2FR1wIDAQAB",
+      "bankSignature": "bRaCsMXvjs+GP/SJ1ODbdKSXvFoDERUPnCKpV3Oq6704YDpUt5q+Z3TlMxZKnpOQTt/sP9GURlAcGUMVr7GuUTnfvkTRS8iMfONS7kheJX/BwwIIUCfBrzWphx9aIktUgKm7/GD06gDq7wBueZEv00+31ur0iRkG7LsJz8NcKCw=",
+      "clientSignature": ""
+    }
+  ]
+}
